@@ -1,7 +1,7 @@
-# Android Helper
+# Android Helpers
 Collection of utility classes, that simplify Android development.
 
-## Table of content
+## Table of contents
 - DKAdHelper - simplify AdMob integration into App
 
 ## DKAdHelper
