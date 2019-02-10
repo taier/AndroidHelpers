@@ -1,3 +1,4 @@
+[ ![Download](https://api.bintray.com/packages/deniss-kaibagarovs/Maven/AndroidHelpers/images/download.svg?version=0.0.2) ](https://bintray.com/deniss-kaibagarovs/Maven/AndroidHelpers/0.0.2/link)
 # Android Helpers
 Collection of utility classes, that simplify Android development.
 
